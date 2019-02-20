@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-	
+Float resultado	
 	int dato;
 
 	cout << "Introduce un dato: ";
@@ -16,6 +16,7 @@ int main(){
 	for(int i=0; i<10; i++){
 		vector[i] = 5;
 	}
-
+         
+    imprime (resultado)
 
 }
