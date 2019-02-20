@@ -1,3 +1,4 @@
+
 #include <iostream>
 
 using namespace std;
@@ -11,7 +12,11 @@ int main(){
 	cin >> dato;
 	dato = dato * 10;
 
-	printf("Dato = %i", dato);
+	cout << "otro mensaje"
+
+	for(int i=0; i<10; i++){
+		vector[i] = 5;
+	}
 
 
 }
